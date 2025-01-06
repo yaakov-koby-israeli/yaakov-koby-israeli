@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaakov-koby-israeli&label=Profile%20views&color=0e75b6&style=flat" alt="yaakov-koby-israeli" /> </p>
 
-- 🔭 I’m currently working on **Smart Loans Project**
+- 🔭 I’m currently working on **Smart Loans Project** using, **FastAPI, RESTful APIs using Python, SQLAlchemy, OAuth, JWT and way more!**
 
-- 🌱 I’m currently learnin **FastAPI, RESTful APIs using Python, SQLAlchemy, OAuth, JWT and way more! in Udemy**
+- 🌱 I’m currently learnin **Object-Oriented Programming using C# and The .NET Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
