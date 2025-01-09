@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Smart Loans Project** using, **FastAPI, RESTful APIs using Python, SQLAlchemy, OAuth, JWT and way more!**
 
-- 🌱 I’m currently learnin **Object-Oriented Programming using C# and The .NET Framework**
+- 🌱 I’m currently learnin **Object-Oriented Programming using C# .NET Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
