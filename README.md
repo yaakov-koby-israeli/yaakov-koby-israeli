@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaakov-koby-israeli&show_icons=true&locale=en" alt="yaakov-koby-israeli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaakov-koby-israeli&" alt="yaakov-koby-israeli" /></p>
-
-please update this code to be more structed and readable without changing the functionality
