@@ -71,13 +71,13 @@
          alt="yaakov-koby-israeli" />
 </p>
 
-<!-- Stats -->
-<p align="center">
+<!-- Stats and Streak Side by Side -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <!-- Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=yaakov-koby-israeli&show_icons=true&locale=en" 
          alt="yaakov-koby-israeli" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaakov-koby-israeli&" alt="yaakov-koby-israeli" />
-</p>
+    
+    <!-- Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaakov-koby-israeli&" 
+         alt="yaakov-koby-israeli" />
+</div>
