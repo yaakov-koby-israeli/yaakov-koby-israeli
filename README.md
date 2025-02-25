@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 
-  <a  target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
     <img src="https://images.sftcdn.net/images/t_app-icon-s/p/4e3ff2d9-a662-4bde-ae06-cdfbef05ac53/1647265468/dotnet-icon.png" alt=".NET FRAMEWORK" width="40" height="40"/>
   </a>
   
