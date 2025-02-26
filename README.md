@@ -60,8 +60,11 @@
     <img src="https://images.sftcdn.net/images/t_app-icon-s/p/4e3ff2d9-a662-4bde-ae06-cdfbef05ac53/1647265468/dotnet-icon.png" title=".NET FRAMEWORK" alt=".NET FRAMEWORK" width="40" height="40"/>
   </a>
   
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  title="Python"  alt="python" width="40" height="40"/>
+
+  <a target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>    
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>
