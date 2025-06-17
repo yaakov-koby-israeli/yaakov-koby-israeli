@@ -57,7 +57,7 @@
   </a>
 
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://images.sftcdn.net/images/t_app-icon-s/p/4e3ff2d9-a662-4bde-ae06-cdfbef05ac53/1647265468/dotnet-icon.png" title=".NET FRAMEWORK" alt=".NET FRAMEWORK" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" title=".NET FRAMEWORK" alt=".NET FRAMEWORK" width="40" height="40"/>
   </a>
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
