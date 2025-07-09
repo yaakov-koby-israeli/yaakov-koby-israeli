@@ -74,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="mysql" width="40" height="40"/>
   </a>
   
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/yaakov-koby-israeli/LogoStack/blob/main/Databases/Mongodb-round-icon.png" title="Mongodb" alt="Mongodb" width="40" height="40"/>
   </a>
  
