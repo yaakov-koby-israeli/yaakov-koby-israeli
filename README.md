@@ -75,7 +75,7 @@
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>
+    <img src="https://github.com/yaakov-koby-israeli/LogoStack/blob/main/Databases/Mongodb-round-icon.png" title="Mongodb" alt="Mongodb" width="40" height="40"/>
   </a>
  
   </a>
