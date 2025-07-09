@@ -67,7 +67,7 @@
     <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>    
   
   <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/736x/b4/de/20/b4de205cb6d4e7cad43c2971f780cfd9.jpg" title="Java Script" alt="Java Script" width="40" height="40"/>
+    <img src="https://i.pinimg.com/736x/25/7e/60/257e603c3aa1d6c802b4e84b3b8aa670.jpg" title="Java Script" alt="Java Script" width="40" height="40"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
