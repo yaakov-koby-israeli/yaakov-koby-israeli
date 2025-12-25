@@ -11,7 +11,7 @@
 
 <ul>
   <li>
-    🔭 I'm currently working on <strong> Crypto wallet Fullstack Project</strong> using, <strong>FastAPI</strong>,<strong>React</strong> RESTful APIs using Python, JavaScript, SQLAlchemy, OAuth, JWT and way more!
+    🔭 I'm currently working on <strong> Crypto wallet Fullstack Project</strong> using, <strong>React</strong> RESTful APIs using Python <strong>FastAPI</strong>, JavaScript, SQLAlchemy, OAuth, JWT and way more!
   </li>
   <li>
     🌱 I'm currently learning <strong> AWS and Docker</strong>
