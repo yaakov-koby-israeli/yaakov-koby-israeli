@@ -11,10 +11,10 @@
 
 <ul>
   <li>
-    🔭 I'm currently working on <strong> Crypto wallet Fullstack Project</strong> using, <strong>FastAPI,React RESTful APIs using Python,JavaScript, SQLAlchemy, OAuth, JWT and way more!</strong>
+    🔭 I'm currently working on <strong> Crypto wallet Fullstack Project</strong> using, <strong>FastAPI</strong>,<strong>React</strong> RESTful APIs using Python, JavaScript, SQLAlchemy, OAuth, JWT and way more!
   </li>
   <li>
-    🌱 I'm currently learning <strong>Object-Oriented Programming using C# .NET Framework</strong>
+    🌱 I'm currently learning <strong> AWS and Docker</strong>
   </li>
 </ul>
 
