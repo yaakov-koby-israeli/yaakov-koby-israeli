@@ -11,7 +11,7 @@
 
 <ul>
   <li>
-    🔭 I'm currently working on <strong>Smart Loans Project</strong> using, <strong>FastAPI, RESTful APIs using Python, SQLAlchemy, OAuth, JWT and way more!</strong>
+    🔭 I'm currently working on <strong> Crypto wallet Fullstack Project</strong> using, <strong>FastAPI,React RESTful APIs using Python,JavaScript, SQLAlchemy, OAuth, JWT and way more!</strong>
   </li>
   <li>
     🌱 I'm currently learning <strong>Object-Oriented Programming using C# .NET Framework</strong>
