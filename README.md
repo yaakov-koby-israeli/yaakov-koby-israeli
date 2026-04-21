@@ -41,47 +41,59 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
   
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cplusplus" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         title="C" alt="C" width="40" height="40"/>
   </a>
 
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" title=".NET FRAMEWORK" alt=".NET FRAMEWORK" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         title="C++" alt="C++" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  title="Python"  alt="python" width="40" height="40"/>
 
-  <a target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>    
-  
-  <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer">
-    <img src="https://github.com/yaakov-koby-israeli/LogoStack/blob/main/Programming%20Languages/Java_Script_Icon.png" title="Java Script" alt="Java Script" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+         title="C#" alt="C#" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="mysql" width="40" height="40"/>
+
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png"
+         title=".NET" alt=".NET" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/yaakov-koby-israeli/LogoStack/blob/main/Databases/Mongodb-round-icon.png" title="Mongodb" alt="Mongodb" width="40" height="40"/>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         title="Python" alt="Python" width="40" height="40"/>
   </a>
- 
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg"
+         title="FastAPI" alt="FastAPI" width="40" height="40"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"  title="SQlite" alt="sqlite" width="40" height="40"/>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/yaakov-koby-israeli/LogoStack/blob/main/Programming%20Languages/Java_Script_Icon.png"
+         title="JavaScript" alt="JavaScript" width="40" height="40"/>
   </a>
-</p>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         title="MySQL" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://github.com/yaakov-koby-israeli/LogoStack/blob/main/Databases/Mongodb-round-icon.png"
+         title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+         title="SQLite" alt="SQLite" width="40" height="40"/>
+  </a>
+
+</div>
 
 <p>
   <img 
