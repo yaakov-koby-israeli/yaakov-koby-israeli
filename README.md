@@ -95,27 +95,16 @@
 
 </div>
 
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yaakov-koby-israeli&show_icons=true&locale=en&layout=compact" 
-    alt="yaakov-koby-israeli" 
-  />
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaakov-koby-israeli&show_icons=true&locale=en&layout=compact" alt="yaakov-koby-israeli top langs" />  
 </p>
 
-<p>
-  &nbsp;
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=yaakov-koby-israeli&show_icons=true&locale=en" 
-    alt="yaakov-koby-israeli" 
-  />
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=yaakov-koby-israeli&show_icons=true&locale=en" alt="yaakov-koby-israeli stats" />
 </p>
 
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yaakov-koby-israeli&" 
-    alt="yaakov-koby-israeli" 
-  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaakov-koby-israeli&" alt="yaakov-koby-israeli streak" />
 </p>
