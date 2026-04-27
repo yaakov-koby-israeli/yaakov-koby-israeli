@@ -11,10 +11,10 @@
 
 <ul>
   <li>
-    🔭 I'm currently working on <strong> Crypto wallet Fullstack Project</strong> using, <strong>React</strong> RESTful APIs using Python <strong>FastAPI</strong>, JavaScript, SQLAlchemy, OAuth, JWT and way more!
+    🔭 <strong> B.Sc. in Computer Science </strong> 
   </li>
   <li>
-    🌱 I'm currently learning <strong> AWS and Docker</strong>
+    🌱 <strong> Always Learning new technologies and improving </strong>
   </li>
 </ul>
 
